@@ -1,0 +1,17 @@
+.navigation {
+  height: 64px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+  box-sizing: border-box;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 64px);
+  background-color: lightgray;
+}

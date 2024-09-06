@@ -1,0 +1,10 @@
+.wrapper {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}

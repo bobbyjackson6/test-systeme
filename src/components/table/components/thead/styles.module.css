@@ -1,0 +1,10 @@
+.head {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(217, 234, 234);
+}
+
+.row {
+    height: 72px;
+    width: 100%;
+}
